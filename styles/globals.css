@@ -1,16 +1,9 @@
+#canvas {
+  height: 100vh !important;
+  background-image: linear-gradient(to right, rgb(10, 0, 65), rgb(57, 0, 57));
+}
 html,
 body {
-  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
+  padding: 0;
 }
